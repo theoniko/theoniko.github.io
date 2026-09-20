@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+
+title: "Hi"
+
+links:
+  - label: "LinkedIn"
+    icon: "fa-brands fa-linkedin fa-fw"
+    url: "https://www.linkedin.com/in/theodoros-nikolaou-449435147/"
